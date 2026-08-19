@@ -32,7 +32,7 @@ I’m Yuchen (Eugene) Song, an M.S. Computer Science student at UC San Diego (Cl
 ## Publications
 
 - Y. Song, Y. Zhang, M. Li. [*Exploring Pre-trained Models on Ultrasound Modeling for Mice Autism Detection with Uniform Filter Bank and Attentive Scoring*](https://www.isca-archive.org/interspeech_2025/song25_interspeech.html). **Interspeech 2025**.
-- Y. Zhang, Y. Song, J. Liu, M. Li. *An Automatic Laryngoscopic Image Segmentation System Based on SAM Prompt Engineering: From Glottis Annotation to Vocal Fold Segmentation*. **Frontiers in Molecular Biosciences**, 2025.
+- Y. Zhang, Y. Song, J. Liu, M. Li. [*An Automatic Laryngoscopic Image Segmentation System Based on SAM Prompt Engineering: From Glottis Annotation to Vocal Fold Segmentation*](https://doi.org/10.3389/fmolb.2025.1616271). **Frontiers in Molecular Biosciences**, 2025.
 
 <p align="center">
   <sub>Open to research and engineering collaborations.</sub>
