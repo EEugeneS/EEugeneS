@@ -3,7 +3,7 @@
 <h1 align="center">Yuchen (Eugene) Song</h1>
 
 <p align="center">
-  <strong>MSCS @ UC San Diego</strong> · Machine Learning Systems · Full-Stack AI
+  <strong>M.S. in Computer Science @ UC San Diego · Class of 2027</strong> · Machine Learning Systems · Full-Stack Products
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-I build machine-learning systems and full-stack AI applications, with current research spanning wearable sensing, audio modeling, and medical computer vision.
+I’m Yuchen (Eugene) Song, an M.S. Computer Science student at UC San Diego (Class of 2027). I build machine-learning systems and full-stack products, with research in wearable sensing, audio modeling, and medical computer vision.
 
 ## Focus
 
