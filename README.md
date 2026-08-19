@@ -26,7 +26,7 @@ I’m Yuchen (Eugene) Song, an M.S. Computer Science student at UC San Diego (Cl
 | --- | --- |
 | [DeepPostures / CHAP2.0](https://github.com/ADALabUCSD/DeepPostures) | PyTorch workflows for zero-shot prediction and fine-tuning of hip- and wrist-worn accelerometer data. |
 | [MyGradCard](https://github.com/EEugeneS/mygradcard) | Cross-platform fundraising product built with React Native, Next.js, Firebase, and Stripe. |
-| [MADUV 2025](https://github.com/EEugeneS/Method-for-MADUV-2025-Challenge) | Interspeech 2025 implementation for mouse ultrasonic-vocalization classification with pretrained audio models. |
+| [Interspeech 2025 — Exploring Pre-trained Models on Ultrasound Modeling for Mice Autism Detection with Uniform Filter Bank and Attentive Scoring](https://github.com/EEugeneS/Method-for-MADUV-2025-Challenge) | Implementation for mouse ultrasonic-vocalization classification with pretrained audio models. |
 | [Laryngoscopic Image Segmentation Toolkit](https://github.com/yucongzh/Laryngoscopic-Image-Segmentation-Toolkit) | Co-author of a SAM prompt-engineering toolkit for vocal-fold and glottis segmentation. |
 
 ## Publications
