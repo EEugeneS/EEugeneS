@@ -1,16 +1,42 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=150&section=header" alt="" />
 
-<!--
-**EEugeneS/EEugeneS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Yuchen (Eugene) Song</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>MSCS @ UC San Diego</strong> · Machine Learning Systems · Full-Stack AI
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuchen-song-401a09324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.mygradcard.com">
+    <img src="https://img.shields.io/badge/MyGradCard-5B45F5?style=flat&logo=googlechrome&logoColor=white" alt="MyGradCard" />
+  </a>
+</p>
+
+I build machine-learning systems and full-stack AI applications, with current research spanning wearable sensing, audio modeling, and medical computer vision.
+
+## Focus
+
+- **Research:** wearable accelerometer modeling, audio ML, and medical-image segmentation
+- **Engineering:** Python, PyTorch, TypeScript, React Native, Next.js, Firebase, and cloud services
+- **Currently:** contributing to CHAP2.0, a reproducible posture-classification pipeline for wearable data
+
+## Selected work
+
+| Project | What I worked on |
+| --- | --- |
+| [MyGradCard](https://github.com/EEugeneS/mygradcard) | Cross-platform fundraising product built with React Native, Next.js, Firebase, and Stripe. |
+| [DeepPostures / CHAP2.0](https://github.com/ADALabUCSD/DeepPostures) | PyTorch workflows for zero-shot prediction and fine-tuning of hip- and wrist-worn accelerometer data. |
+| [MADUV 2025](https://github.com/EEugeneS/Method-for-MADUV-2025-Challenge) | Interspeech 2025 implementation for mouse ultrasonic-vocalization classification with pretrained audio models. |
+| [Laryngoscopic Image Segmentation Toolkit](https://github.com/yucongzh/Laryngoscopic-Image-Segmentation-Toolkit) | Co-author of a SAM prompt-engineering toolkit for vocal-fold and glottis segmentation. |
+
+## Publications
+
+- Y. Song, Y. Zhang, M. Li. [*Exploring Pre-trained Models on Ultrasound Modeling for Mice Autism Detection with Uniform Filter Bank and Attentive Scoring*](https://www.isca-archive.org/interspeech_2025/song25_interspeech.html). **Interspeech 2025**.
+- Y. Zhang, Y. Song, J. Liu, M. Li. *An Automatic Laryngoscopic Image Segmentation System Based on SAM Prompt Engineering: From Glottis Annotation to Vocal Fold Segmentation*. **Frontiers in Molecular Biosciences**, 2025.
+
+<p align="center">
+  <sub>Open to research and engineering collaborations.</sub>
+</p>
