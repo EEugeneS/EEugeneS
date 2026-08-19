@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/yuchen-song-401a09324/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.mygradcard.com">
-    <img src="https://img.shields.io/badge/MyGradCard-5B45F5?style=flat&logo=googlechrome&logoColor=white" alt="MyGradCard" />
-  </a>
 </p>
 
 I build machine-learning systems and full-stack AI applications, with current research spanning wearable sensing, audio modeling, and medical computer vision.
@@ -27,8 +24,8 @@ I build machine-learning systems and full-stack AI applications, with current re
 
 | Project | What I worked on |
 | --- | --- |
-| [MyGradCard](https://github.com/EEugeneS/mygradcard) | Cross-platform fundraising product built with React Native, Next.js, Firebase, and Stripe. |
 | [DeepPostures / CHAP2.0](https://github.com/ADALabUCSD/DeepPostures) | PyTorch workflows for zero-shot prediction and fine-tuning of hip- and wrist-worn accelerometer data. |
+| [MyGradCard](https://github.com/EEugeneS/mygradcard) | Cross-platform fundraising product built with React Native, Next.js, Firebase, and Stripe. |
 | [MADUV 2025](https://github.com/EEugeneS/Method-for-MADUV-2025-Challenge) | Interspeech 2025 implementation for mouse ultrasonic-vocalization classification with pretrained audio models. |
 | [Laryngoscopic Image Segmentation Toolkit](https://github.com/yucongzh/Laryngoscopic-Image-Segmentation-Toolkit) | Co-author of a SAM prompt-engineering toolkit for vocal-fold and glottis segmentation. |
 
